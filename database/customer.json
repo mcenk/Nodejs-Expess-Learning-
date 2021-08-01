@@ -1,0 +1,47 @@
+[[
+  "1",
+  "2",
+  "3"
+],{
+  "id": "4",
+  "name": "5",
+  "adress": "6",
+  "orders": "7"
+},{
+  "id": "8",
+  "name": "9",
+  "adress": "10",
+  "orders": "11"
+},{
+  "id": "12",
+  "name": "13",
+  "adress": "14",
+  "orders": "15"
+},"66332007-70bc-4dfb-aa8c-721119550fbd","Serra","Atakent",[
+  "16"
+],"1e32be51-fcc5-44e4-873b-324e3cee2aa5","Cenk","Cennet",[
+  "17"
+],"227e9167-3932-4cc5-ad79-6f340088f4d5","Merve","Istasyonmh",[],{
+  "restaurant": "18",
+  "customer": "19",
+  "meal": "20",
+  "adress": "21"
+},{
+  "restaurant": "18",
+  "customer": "22",
+  "meal": "23",
+  "adress": "24"
+},{
+  "name": "25",
+  "adress": "26"
+},{
+  "id": "4",
+  "name": "5",
+  "adress": "6",
+  "orders": "7"
+},"adanaDurum","atakent",{
+  "id": "8",
+  "name": "9",
+  "adress": "10",
+  "orders": "11"
+},"lahmacun","cennet","halis","sefakoy"]

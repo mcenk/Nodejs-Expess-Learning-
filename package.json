@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-food",
+  "version": "1.0.0",
+  "description": "nodejs learning",
+  "main": "index.js",
+  "scripts": {
+    "start": "node create-records.js",
+    "watch": "nodemon --ignore '*.json'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mcenk",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1",
+    "flatted": "^2.0.2",
+    "pug": "^3.0.2",
+    "uuid": "^7.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
